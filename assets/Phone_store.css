@@ -765,7 +765,7 @@ sup{
     }
 
     .contact .right{
-        width: fit-content;
+        width: 100%;
     }
 
     .box .two_btn{
