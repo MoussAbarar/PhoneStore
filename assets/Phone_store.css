@@ -564,10 +564,6 @@ sup{
     background-color: var(--bgcolor);
 }
 
-.about_us .read_more1, .about_us .read_more2{
-    display: none;
-}
-
 .about_us h2{
     margin: 0px auto 40px auto;
     padding-top: 20px;
@@ -699,6 +695,10 @@ sup{
     .about_us div{
         flex-direction: column;
         align-items: center;
+        width: 80%;
+        padding: 20px 0;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .about_us .div2{
