@@ -768,6 +768,10 @@ sup{
         width: 80%;
     }
 
+    .contact .right form{
+        width: 100%;
+    }
+
     .box .two_btn{
         display: flex;
         flex-direction: column;
