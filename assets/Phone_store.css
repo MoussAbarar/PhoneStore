@@ -695,10 +695,7 @@ sup{
     .about_us div{
         flex-direction: column;
         align-items: center;
-        width: 80%;
-        padding: 20px 0;
-        margin-left: auto;
-        margin-right: auto;
+
     }
 
     .about_us .div2{
@@ -754,6 +751,13 @@ sup{
     }
     .about_us p{
         width: 100%;
+    }
+
+    .about_us div{
+        width: 100%;
+        padding: 20px 0;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .about_us div img{
